@@ -20,6 +20,6 @@ public class Jarra {//variables de instancia
     }
     public void metodoComunitario(){
 // Comentario incluido para pruebas
-        System.out.println("Aqui escribimos todos");
+        System.out.println("Aqui escribimos todos: Ángel Joaquín Rodríguez Mercado");
     }
 }
