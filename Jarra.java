@@ -13,4 +13,11 @@ public class Jarra {//variables de instancia
 // Comentario incluido para pruebas
         System.out.println("Aqui escribimos todos");
     }
+
+    public int capacidad(){
+        return this.capacidad;
+    }
+    public int cantidad(){
+        return this.cantidad;
+    }
 }
