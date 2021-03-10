@@ -46,4 +46,11 @@ public class Jarra {//variables de instancia
         } else { eqs = false; }
         return eqs;
     }
+
+    public int capacidad(){
+        return this.capacidad;
+    }
+    public int cantidad(){
+        return this.cantidad;
+    }
 }
