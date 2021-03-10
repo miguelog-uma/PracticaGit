@@ -24,6 +24,7 @@ public class Jarra {//variables de instancia
         System.out.println("Galo Pérez Gallego");
         System.out.println("Ángel Joaquín Rodríguez Mercado");
         System.out.println("Miguel Oña Guerrero");
+        System.out.println("Angelo Gorgone Carvajal");
     }
 
     public bool llena(){
